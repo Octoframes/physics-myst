@@ -1,1 +1,1 @@
-import{a}from"/physics-myst/build/_shared/chunk-UAYHPLBT.js";import"/physics-myst/build/_shared/chunk-BQXD5VCA.js";import"/physics-myst/build/_shared/chunk-RMYRWJKG.js";export default a();
+import{a}from"/physicsmyst/build/_shared/chunk-UAYHPLBT.js";import"/physicsmyst/build/_shared/chunk-BQXD5VCA.js";import"/physicsmyst/build/_shared/chunk-RMYRWJKG.js";export default a();
