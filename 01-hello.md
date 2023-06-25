@@ -2,15 +2,22 @@
 # Intro
 
 
-:::{figure} #heyho
+:::{figure} #my-video
 :name: fig-vid-embedded
-Dog drinking water
+Video: Dog drinking water
 :::
 
 
 
+:::{figure} #my-image
+:name: fig-vid-embedded
+:width: 50px
+Image: Cute Dog 
+:::
+
+
 :::{figure} #my-gif
 :name: fig-vid-embedded
-:width: 100px
-Dog drinking water
+:width: 50px
+An animated GIF
 :::
