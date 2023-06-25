@@ -5,7 +5,7 @@ project:
   # description:
   keywords: []
   authors: []
-  github: https://github.com/kolibril13/mystjs-minimal-example
+  github: https://github.com/Octoframes/physicsmyst
   # bibliography: []
 site:
   template: book-theme
