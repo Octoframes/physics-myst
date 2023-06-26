@@ -24,7 +24,7 @@ To convert from Cartesian coordinates $(x, y)$ to polar coordinates $(r, \theta)
 \text{atan2}(y, x)
 \end{bmatrix}
 \end{equation}
-\]
+
 To convert from polar coordinates $(r, \theta)$ to Cartesian coordinates $(x, y)$:
 
 $$  \label{eq:transback}
