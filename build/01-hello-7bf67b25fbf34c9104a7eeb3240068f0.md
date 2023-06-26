@@ -7,7 +7,7 @@ There are two animations [](#wave-parcl), and the formula is here [](#wave-eq).
 
 
 
-:::{figure} #my-wave1
+:::{figure} #my-banner
 :name: wave-parcl
 :width: 50px
 This is a wave parcl
