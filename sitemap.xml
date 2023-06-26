@@ -8,6 +8,9 @@
     <loc>http://localhost:3000/media-notebook</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/pendulum</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/wave</loc>
   </url>
 </urlset>
