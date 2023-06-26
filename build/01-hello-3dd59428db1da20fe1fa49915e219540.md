@@ -7,7 +7,7 @@ There are two animations [](#wave-parcl), and the formula is here [](#wave-eq).
 
 
 
-:::{figure} #my-banner
+:::{figure} #polar_static
 :name: wave-parcl
 :width: 50px
 This is a wave parcl
@@ -15,7 +15,14 @@ This is a wave parcl
 
 
 
-:::{figure} #my-wave1
+:::{figure} #polar_ani1
+:name: fig-vid-embedded
+:width: 50px
+Anotehr wave parcl
+:::
+
+
+:::{figure} #polar_ani2
 :name: fig-vid-embedded
 :width: 50px
 Anotehr wave parcl
