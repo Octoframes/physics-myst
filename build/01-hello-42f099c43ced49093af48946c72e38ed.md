@@ -8,7 +8,7 @@ See [radial](#polar_animation1_radial) and [theta](#polar_animation1_theta) for 
 :::{figure} #polar_static
 :name: polar_overview
 :width: 50px
-This is a wave parcl
+Static cartesian coordinate
 :::
 
 
@@ -23,14 +23,14 @@ This is a wave parcl
 :::{figure} #polar_ani1
 :name: polar_animation1_radial
 :width: 50px
-Ani1
+Radial direction
 :::
 
 
 :::{figure} #polar_ani2
 :name: polar_animation1_theta
 :width: 50px
-And Ani2
+Theta direction
 :::
 
 
