@@ -13,6 +13,37 @@ The distance from the pole is called the radial coordinate or radius, and it's o
 
 In summary, a point in the plane can be expressed in polar coordinates as $(r, \theta)$, where $r$ is the radial distance and $\theta$ is the polar angle.
 
+
+
+
+:::{figure} #polar_static
+:name: polar_overview
+:width: 50px
+Static cartesian coordinate
+:::
+
+
+::::{note} Some animations
+:class: dropdown
+
+:::{figure} #polar_ani1
+:name: polar_animation1_radial
+:width: 50px
+Radial direction
+:::
+
+:::{figure} #polar_ani2
+:name: polar_animation1_theta
+:width: 50px
+Theta direction
+:::
+
+::::
+
+
+::::{note} Formulas
+:class: dropdown
+
 To convert from Cartesian coordinates $(x, y)$ to polar coordinates $(r, \theta)$:
 
 
@@ -35,42 +66,6 @@ $$  \label{eq:transback}
 \sin(\theta)
 \end{bmatrix}
 $$
-
-**Note:** 
-1. The $\sqrt{\text{ }}$ function returns the square root of a number.
-2. The $\text{atan2}$ function returns the angle in radians between the positive x-axis and the point given by the coordinates on the two-dimensional plane.
-3. The $\cos$ and $\sin$ functions return the cosine and sine of an angle respectively.
-
-
-:::{figure} #polar_static
-:name: polar_overview
-:width: 50px
-Static cartesian coordinate
-:::
-
-
-
-
-
-
-
-::::{note} Some animations
-:class: dropdown
-
-:::{figure} #polar_ani1
-:name: polar_animation1_radial
-:width: 50px
-Radial direction
-:::
-
-
-:::{figure} #polar_ani2
-:name: polar_animation1_theta
-:width: 50px
-Theta direction
-:::
-
-
 
 ::::
 
