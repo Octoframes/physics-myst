@@ -2,16 +2,14 @@
 
 ## Polar Coordinates
 
-See [radial](#polar_animation1_radial) and [theta](#polar_animation1_theta) for animations. See [](#polar_overview) for a static image, and  [trans](#eq:trans) and  [transback](#eq:transback) .
+See [radial] and [theta] for animations. See [](#polar_overview) for a static image, and   and   
 
 
-Polar coordinates are a two-dimensional coordinate system in which each point on a plane is determined by a distance from a reference point and an angle from a reference direction.
+In polar coordinates, points in a plane are defined by radial distance (r) and angular coordinate (θ) ([](#polar_overview)). The [radial direction](#polar_animation1_radial) measures the point's distance from the origin, while the [angular direction](#polar_animation1_theta) corresponds to the counterclockwise angle from the positive x-axis. These two dimensions together specify any point in the plane.
+When transitioning from Cartesian coordinates (x, y) to polar coordinates (r, θ), we calculate the radial distance and angle using equation [](#eq:trans). Conversely, when converting from polar back to Cartesian coordinates, we use equation [](#eq:transback).
 
-The reference point (also called the pole) is typically denoted as $O$. The ray from the pole in the reference direction is the positive x-axis, and it's often referred to as the polar axis.
 
-The distance from the pole is called the radial coordinate or radius, and it's often denoted by $r$. The angle from the polar axis is the angular coordinate or the polar angle, typically denoted by $\theta$.
 
-In summary, a point in the plane can be expressed in polar coordinates as $(r, \theta)$, where $r$ is the radial distance and $\theta$ is the polar angle.
 
 
 
