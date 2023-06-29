@@ -2,7 +2,8 @@
 
 ## Polar Coordinates
 
-In polar coordinates, points in a plane are defined by radial distance $r$ and angular coordinate $\theta$  ([](#polar_overview)). The [radial direction](#polar_animation1_radial) measures the point's distance from the origin, while the [angular direction](#polar_animation1_theta) corresponds to the counterclockwise angle from the positive x-axis. These two dimensions together specify any point in the plane.
+In polar coordinates, points in a plane are defined by radial distance $r$ and angular coordinate $\theta$  ([](#polar_overview)). The [radial direction](#fig-polar_radial) measures the point's distance from the origin, while the [angular direction](#fig-polar_angular) corresponds to the counterclockwise angle from the positive x-axis. These two dimensions together specify any point in the plane.
+
 
 When transitioning from Cartesian coordinates ($x$, $y$) to polar coordinates ($r$, $\theta$), we calculate the radial distance and angle using equation [](#eq:trans). Conversely, when converting from polar back to Cartesian coordinates, we use equation [](#eq:transback).
 
