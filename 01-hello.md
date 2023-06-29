@@ -7,11 +7,6 @@ In polar coordinates, points in a plane are defined by radial distance $r$ and a
 When transitioning from Cartesian coordinates ($x$, $y$) to polar coordinates ($r$, $\theta$), we calculate the radial distance and angle using equation [](#eq:trans). Conversely, when converting from polar back to Cartesian coordinates, we use equation [](#eq:transback).
 
 
-
-
-
-
-
 :::{figure} #polar_static
 :name: polar_overview
 :width: 50px
@@ -22,14 +17,14 @@ Polar coordinate system
 ::::{note} Some animations
 :class: dropdown
 
-:::{figure} #polar_ani1
-:name: polar_animation1_radial
+:::{figure} #polar_radial
+:name: fig-polar_radial
 :width: 50px
 Radial direction
 :::
 
-:::{figure} #polar_ani2
-:name: polar_animation1_theta
+:::{figure} #polar_angular
+:name: fig-polar_angular
 :width: 50px
 Angular direction
 :::
