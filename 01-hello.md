@@ -15,7 +15,7 @@ Polar coordinate system
 :::
 
 
-::::{note} Some animations
+::::{note} Animations
 :class: dropdown
 
 :::{figure} #polar_radial
@@ -33,7 +33,7 @@ Angular direction
 ::::
 
 
-::::{note} Formulas
+::::{note} Equations
 :class: dropdown
 
 To convert from Cartesian coordinates $(x, y)$ to polar coordinates $(r, \theta)$:
