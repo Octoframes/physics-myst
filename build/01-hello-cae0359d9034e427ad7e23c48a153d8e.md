@@ -15,7 +15,7 @@ When transitioning from Cartesian coordinates ($x$, $y$) to polar coordinates ($
 :::{figure} #polar_static
 :name: polar_overview
 :width: 50px
-Static cartesian coordinate
+Polar coordinate system
 :::
 
 
@@ -31,7 +31,7 @@ Radial direction
 :::{figure} #polar_ani2
 :name: polar_animation1_theta
 :width: 50px
-Theta direction
+Angular direction
 :::
 
 ::::
