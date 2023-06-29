@@ -1,4 +1,1 @@
-# Okapi minimal example.
-
-
-
+# Physics Script in MyST
